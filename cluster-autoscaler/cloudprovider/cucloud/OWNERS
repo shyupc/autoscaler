@@ -1,0 +1,7 @@
+approvers:
+- shyupc
+reviewers:
+- shyupc
+
+labels:
+- area/provider/cucloud

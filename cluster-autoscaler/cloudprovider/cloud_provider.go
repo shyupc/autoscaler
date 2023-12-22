@@ -46,6 +46,8 @@ const (
 	CloudStackProviderName = "cloudstack"
 	// ClusterAPIProviderName gets the provider name of clusterapi
 	ClusterAPIProviderName = "clusterapi"
+	// CucloudProviderName gets the provider name of cucloud
+	CucloudProviderName = "cucloud"
 	// DigitalOceanProviderName gets the provider name of digitalocean
 	DigitalOceanProviderName = "digitalocean"
 	// ExoscaleProviderName gets the provider name of exoscale
